@@ -17,7 +17,7 @@ Sempre que for mexer no código, verificar se há novas alterações pra trabalh
 
 2 - git pull origin master (check updates)
 
-3 - git checkout -b index novoGalho
+3 - git checkout -b novoGalho
 #criar novo galho para edição
 
 Após fazer mudanças, você deve salvá-las e refazer o upload dos arquivos.
