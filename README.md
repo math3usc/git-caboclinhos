@@ -28,3 +28,6 @@ Após fazer mudanças, você deve salvá-las e refazer o upload dos arquivos.
 
 3 - git push origin novoGalho
 #nesse "novoGalho", você deve colocar um nome que faça menção ao que foi alterado. esse galho vai ser analisado pelos colaboradores para ser incorporado ao programa principal depois da aprovação geral. (Pra evitar que secretaria faça merda no código).
+
+#Alterações com sucesso:
+1- Raphael
