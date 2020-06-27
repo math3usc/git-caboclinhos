@@ -17,7 +17,7 @@ Sempre que for mexer no código, verificar se há novas alterações pra trabalh
 
 2 - git pull origin master (check updates)
 
-3 - git checkout -b index novoGalho
+3 - git checkout -b novoGalho
 #criar novo galho para edição
 
 Após fazer mudanças, você deve salvá-las e refazer o upload dos arquivos.
@@ -28,3 +28,5 @@ Após fazer mudanças, você deve salvá-las e refazer o upload dos arquivos.
 
 3 - git push origin novoGalho
 #nesse "novoGalho", você deve colocar um nome que faça menção ao que foi alterado. esse galho vai ser analisado pelos colaboradores para ser incorporado ao programa principal depois da aprovação geral. (Pra evitar que secretaria faça merda no código).
+
+#teste de branch
